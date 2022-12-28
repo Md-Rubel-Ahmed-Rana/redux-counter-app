@@ -1,0 +1,6 @@
+1. define state
+2. action
+3. reducer
+4. store
+5. provide store
+6. dispatch when and where you need
